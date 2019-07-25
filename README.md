@@ -1,1 +1,1 @@
-https://uibeabuchi.github.io/
+uibeabuchi.github.io
